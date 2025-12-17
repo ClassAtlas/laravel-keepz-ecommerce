@@ -3,7 +3,7 @@
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/class-atlas/laravel-keepz-ecommerce.svg?style=flat-square)](https://packagist.org/packages/class-atlas/laravel-keepz-ecommerce)
 [![Total Downloads](https://img.shields.io/packagist/dt/class-atlas/laravel-keepz-ecommerce.svg?style=flat-square)](https://packagist.org/packages/class-atlas/laravel-keepz-ecommerce)
 
-This Laravel package provides seamless integration with [Keepz](https://keepz.ge)'s
+This Laravel package provides seamless integration with [Keepz](https://keepz.me)'s
 eCommerce [API](https://www.developers.keepz.me/category/ecommerce--pay-via-keepz) — allowing your
 application to create, monitor, and manage online orders with ease.
 
